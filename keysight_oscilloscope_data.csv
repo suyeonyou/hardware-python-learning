@@ -1,0 +1,20 @@
+[Header Info]
+Model,MSOS804A High-Definition Oscilloscope
+Firmware,06.30.00801
+Sample Rate,20.00GSa/s
+Time Base,200.0ns/div
+Date,2026-06-01 20:35:00
+
+[Data]
+Time,Channel1
+-1.00E-03,3.31
+-0.80E-03,3.29
+-0.60E-03,3.42
+-0.40E-03,3.35
+-0.20E-03,3.28
+0.00E+00,3.30
+0.20E-03,3.32
+0.40E-03,3.48
+0.60E-03,3.27
+0.80E-03,3.31
+1.00E-03,3.29
